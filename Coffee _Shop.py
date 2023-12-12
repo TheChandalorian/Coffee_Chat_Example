@@ -1,4 +1,4 @@
-#Chandler's coffee shop barrista
+#Chandler's coffee shop barrista 
 #Mimic a real life barrista for a coffee shop simulation
 
 print("Hello, welcome to Chandler's Coffee Shop \n")
